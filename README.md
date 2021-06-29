@@ -1,9 +1,10 @@
 ### Hello World 👋
 I am a software engineer from New York
-- 🔭 at a fintech startup using React, Typescript, and GraphQL
+- 🔭 currently at a fintech startup using React, Typescript, and GraphQL
+- 🌱 always learning
 <br>
-
-## Connect with me
+ 
+## 📫 Connect with me 
 
 <a href="https://www.linkedin.com/in/tochen1231/">
   <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,7 +12,7 @@ I am a software engineer from New York
 <br>
 <br>
 
-## Expertise
+## :wrench: Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />

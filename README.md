@@ -2,7 +2,9 @@
 I am a software engineer from New York
 - 🔭 at a fintech startup using React, Typescript, and GraphQL
 <br>
+
 ## Connect with me
+
 <a href="https://www.linkedin.com/in/tochen1231/">
   <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
